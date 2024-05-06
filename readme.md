@@ -1,5 +1,7 @@
 # Omnifood
 
+[Live View](http://omnifood-r.s3-website-us-east-1.amazonaws.com/)
+
 Omnifood is an AI-powered food subscription that delivers healthy meals tailored to your personal tastes and nutritional needs. I developed the Omnifood project as part of my journey from learning basic to intermediate HTML and CSS, showcasing my skills in web development
 
 ## Table of Contents
